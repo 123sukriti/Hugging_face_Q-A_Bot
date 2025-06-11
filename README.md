@@ -30,13 +30,8 @@ An AI-powered assistant that answers user questions based on the content of uplo
 ## ▶️ Run on Google Colab
 
 You can run the notebook directly here:  
-📎 [Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK_HERE)
+📎 [Open in Google Colab](https://colab.research.google.com/drive/1aXEUq4FwQGe_va5ZPmErFO2HTpQr-q4l?usp=sharing)
 
-> *Replace the link above with your actual Colab notebook URL.*
-
-## 📷 Screenshots
-
-*(Add Colab screenshots showing upload cell, input/output cells, etc., if available)*
 
 ## 📝 Example Use Case
 
