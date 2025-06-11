@@ -29,10 +29,6 @@ An AI-powered assistant that answers user questions based on the content of uplo
 
 ## ▶️ Run on Google Colab
 
-You can run the notebook directly here:  
-📎 [Open in Google Colab](https://colab.research.google.com/drive/1aXEUq4FwQGe_va5ZPmErFO2HTpQr-q4l?usp=sharing)
-
-
 ## 📝 Example Use Case
 
 - Upload: *Indian Constitution PDF*
